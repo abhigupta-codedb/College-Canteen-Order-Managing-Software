@@ -1,0 +1,226 @@
+
+Date::Time   Date 18\1\16	    Time 6:6
+Order For 	
+Order @ Room NO.	s11
+ your order includes :
+panner Masala	2
+Coffe Starbucks	2
+Coffe Bru	2
+
+amount payable :490PAY BY :	C A
+Date::Time   Date 18\1\16	    Time 6:10
+Order For 	Abhishek
+Order @ Room NO.	D11
+ your order includes :
+Tea	1
+Veg Role	1
+
+amount payable :30PAY BY :	C O D
+
+	Date::Time   Date 18\1\16	    Time 6:31
+Order For 	Choudhary
+Order @ Room NO.	D 11
+ your order includes :
+Coffe Bru	2
+Choclate Pastries	2
+
+amount payable :200
+
+	Date::Time   Date 18\1\16	    Time 6:51
+Order For 	Shubham
+Order @ Room NO.	j 23
+ your order includes :
+Rasoogula	1
+
+amount payable :15	PAY BY :	C O D
+
+	Date::Time   Date 18\1\16	    Time 6:55
+Order For 	honey
+Order @ Room NO.	fc34
+ your order includes :
+Coffe Starbucks	1
+Choclate Pastries	1
+
+amount payable :135	PAY BY :	C O D
+
+	Date::Time   Date 18\1\16	    Time 7:24
+Order For 	vijay
+Order @ Room NO.	c11
+ your order includes :
+Rasoogula	9
+
+amount payable :135	PAY BY :	C A
+
+	Date::Time   Date 18\1\16	    Time 7:27
+Order For 	mayank
+Order @ Room NO.	d 11
+ your order includes :
+Coffe Starbucks	1
+Choclate Pastries	1
+
+amount payable :135	PAY BY :	C A
+
+	Date::Time   Date 18\1\16	    Time 7:42
+Order For 	abhishek
+Order @ Room NO.	11
+ your order includes :
+Dosa	2
+Coffe Starbucks	1
+Peanut Pastries	1
+
+amount payable :210	PAY BY :	C A
+
+	Date::Time   Date 18\1\16	    Time 7:49
+Order For 	Ashish
+Order @ Room NO.	d 8
+ your order includes :
+Milk Shake	1
+Palak Panner	1
+
+amount payable :75	PAY BY :	C O D
+
+	Date::Time   Date 19\1\16	    Time 22:52
+Order For 	Abhishek
+Order @ Room NO.	11
+ your order includes :
+Fry DaL	1
+Daal Maakhni	2
+
+amount payable :125	PAY BY :	C O D
+
+	Date::Time   Date 19\1\16	    Time 23:40
+Order For 	Sami
+Order @ Room NO.	11
+ your order includes :
+Badam Shake	5
+Milk Shake	5
+Rasoogula	5
+
+amount payable :325	PAY BY :	C O D
+
+	Date::Time   Date 20\1\16	    Time 0:13
+Order For 	Somesh
+Order @ Room NO.	11
+ your order includes :
+Coffe Bru	2
+Choclate Pastries	2
+
+amount payable :200	PAY BY :	C A
+Date 20\1\16	    Time 1:13
+Order For 	Ashish
+Order @ Room NO.	11
+ your order includes :
+Mango Shake	1
+Palak Panner	1
+Malai Kofta	1
+Fry DaL	1
+
+amount payable :135	PAY BY :	C O D
+Date 20\1\16	    Time 1:30
+Order For 	hari
+Order @ Room NO.	54
+ your order includes :
+Mango Shake	5
+Malai Kofta	5
+
+amount payable :300	PAY BY :	C A
+
+Date 20\1\16	    Time 1:36
+Order For 	Anuj
+Order @ Room NO.	11
+ your order includes :
+Rasoogula	5
+Badam Shake	3
+
+amount payable :150	PAY BY :	C O D
+
+Date 20\1\16	    Time 1:43
+Order For 	mayank
+Order @ Room NO.	11
+ your order includes :
+Choclate Pastries	1
+
+amount payable :25	PAY BY :	C O D
+
+Date 20\1\16	    Time 1:54
+Order For 	somesh
+Order @ Room NO.	11
+ your order includes :
+Mango Shake	1
+Palak Panner	1
+
+amount payable :60	PAY BY :	C O D
+
+Date 20\1\16	    Time 10:43
+Order For 	abhay
+Order @ Room NO.	11
+ your order includes :
+Coffe Starbucks	1
+Coffe Bru	1
+
+amount payable :185	PAY BY :	C O D
+
+Date 20\1\16	    Time 11:11
+Order For 	pandiya
+Order @ Room NO.	11
+ your order includes :
+Mango Shake	2
+Malai Kofta	2
+Fry DaL	2
+Daal Maakhni	2
+
+amount payable :270	PAY BY :	C O D
+
+Date 20\1\16	    Time 11:18
+Order For 	deepu
+Order @ Room NO.	11
+ your order includes :
+Dosa	1
+Coffe Starbucks	1
+Choclate Pastries	1
+
+amount payable :170	PAY BY :	C O D
+
+Date 20\1\16	    Time 11:27
+Order For 	erfesr
+Order @ Room NO.	11
+ your order includes :
+Coffe Bru	1
+
+amount payable :75	PAY BY :	C A
+
+Date 20\1\16	    Time 11:30
+Order For 	asd
+Order @ Room NO.	11
+ your order includes :
+Coffe Starbucks	1
+Peanut Pastries	1
+
+amount payable :140	PAY BY :	C A
+
+Date 20\1\16	    Time 11:36
+Order For 	Somesh
+Order @ Room NO.	11
+ your order includes :
+Peanut Pastries	1
+Rasoogula	1
+
+amount payable :45	PAY BY :	C A
+
+Date 20\1\16	    Time 16:9
+Order For 	Aditya
+Order @ Room NO.	11
+ your order includes :
+Coffe Bru	1
+Rasoogula	2
+
+amount payable :105	PAY BY :	C A
+
+Date 20\1\16	    Time 16:13
+Order For 	Anuska
+Order @ Room NO.	11
+ your order includes :
+Dosa	2
+coffe	2
+
+amount payable :100	PAY BY :	C O D

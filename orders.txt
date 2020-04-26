@@ -1,0 +1,707 @@
+
+Date::Time   Date 18\1\16	    Time 6:6
+Order For 	Anshika
+Order @ Room NO.	s11
+ your order includes :
+panner Masala	2
+Coffe Starbucks	2
+Coffe Bru	2
+
+amount payable :490PAY BY :	C A
+Date::Time   Date 18\1\16	    Time 6:10
+Order For 	Abhishek
+Order @ Room NO.	D11
+ your order includes :
+Tea	1
+Veg Role	1
+
+amount payable :30PAY BY :	C O D
+
+	Date::Time   Date 18\1\16	    Time 6:31
+Order For 	Choudhary
+Order @ Room NO.	D 11
+ your order includes :
+Coffe Bru	2
+Choclate Pastries	2
+
+amount payable :200
+
+	Date::Time   Date 18\1\16	    Time 6:51
+Order For 	Shubham
+Order @ Room NO.	j 23
+ your order includes :
+Rasoogula	1
+
+amount payable :15	PAY BY :	C O D
+
+	Date::Time   Date 18\1\16	    Time 6:55
+Order For 	honey
+Order @ Room NO.	fc34
+ your order includes :
+Coffe Starbucks	1
+Choclate Pastries	1
+
+amount payable :135	PAY BY :	C O D
+
+	Date::Time   Date 18\1\16	    Time 7:24
+Order For 	vijay
+Order @ Room NO.	c11
+ your order includes :
+Rasoogula	9
+
+amount payable :135	PAY BY :	C A
+
+	Date::Time   Date 18\1\16	    Time 7:27
+Order For 	mayank
+Order @ Room NO.	d 11
+ your order includes :
+Coffe Starbucks	1
+Choclate Pastries	1
+
+amount payable :135	PAY BY :	C A
+
+	Date::Time   Date 18\1\16	    Time 7:42
+Order For 	abhishek
+Order @ Room NO.	11
+ your order includes :
+Dosa	2
+Coffe Starbucks	1
+Peanut Pastries	1
+
+amount payable :210	PAY BY :	C A
+
+	Date::Time   Date 18\1\16	    Time 7:49
+Order For 	Ashish
+Order @ Room NO.	d 8
+ your order includes :
+Milk Shake	1
+Palak Panner	1
+
+amount payable :75	PAY BY :	C O D
+
+Date 20\1\16	    Time 21:22
+Order For 	Aditya
+Order @ Room NO.	45
+ your order includes :
+chola bhatura	1
+choclat	1
+halwa	1
+
+amount payable :90	PAY BY :	C O D
+-----------------------------/n
+
+Date 20\1\16	    Time 23:18
+Order For 	Abhishek
+Order @ Room NO.	11
+ your order includes :
+Peanut Pastries	1
+Veg Role	2
+
+amount payable :70	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:21
+Order For 	Abhi
+Order @ Room NO.	11
+ your order includes :
+Tea	1
+Dosa	1
+
+amount payable :45	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:25
+Order For 	mayank
+Order @ Room NO.	11
+ your order includes :
+Rasoogula	1
+Peanut Pastries	1
+
+amount payable :45	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:28
+Order For 	asd
+Order @ Room NO.	11
+ your order includes :
+Coffe Bru	1
+
+amount payable :75	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:32
+Order For 	asdsa
+Order @ Room NO.	11
+ your order includes :
+Coffe Bru	1
+Mango Shake	2
+Choclate Pastries	3
+
+amount payable :170	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:33
+Order For 	asd
+Order @ Room NO.	32
+ your order includes :
+Coffe Starbucks	1
+Choclate Pastries	1
+
+amount payable :135	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:41
+Order For 	ram
+Order @ Room NO.	11
+ your order includes :
+Coffe Bru	1
+Coffe Starbucks	1
+
+amount payable :185	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:47
+Order For 	asd
+Order @ Room NO.	11
+ your order includes :
+Peanut Pastries	1
+Choclate Pastries	1
+
+amount payable :55	PAY BY :	C A
+-----------------------------/n
+
+Date 20\1\16	    Time 23:58
+Order For 	anshika
+Order @ Room NO.	32
+ your order includes :
+Mango Shake	2
+Rasoogula	2
+Peanut Pastries	1
+
+amount payable :80	PAY BY :	C O D
+-----------------------------/n
+
+Date 21\1\16	    Time 0:0
+Order For 	abhishek
+Order @ Room NO.	11
+ your order includes :
+Rasoogula	2
+Mango Shake	3
+
+amount payable :60	PAY BY :	C O D
+-----------------------------/n
+
+Date 21\1\16	    Time 0:7
+Order For 	asd
+Order @ Room NO.	3
+ your order includes :
+Rasoogula	1
+Choclate Pastries	2
+
+amount payable :65	PAY BY :	C A
+-----------------------------/n
+
+Date 21\1\16	    Time 0:30
+Order For 	Aditya Seth
+Order @ Room NO.	44
+ your order includes :
+Malai Kofta	1
+Choclate Pastries	2
+Malai Kofta	1
+Fried Rice	1
+
+amount payable :200	PAY BY :	C O D
+-----------------------------/n
+
+Date 23\1\16	    Time 2:16
+Order For 	Aditya
+Order @ Room NO.	11
+ your order includes :
+Malai Kofta	4
+Fried Rice	5
+
+amount payable :450	PAY BY :	C A
+-----------------------------/n
+
+Date 23\1\16	    Time 2:54
+Order For 	abhishek
+Order @ Room NO.	22
+ your order includes :
+Mango Shake	2
+Malai Kofta	5
+
+amount payable :270	PAY BY :	C O D
+-----------------------------
+
+Date 24\1\16	    Time 19:56
+Order For 	vijay
+Order @ Room NO.	c22
+ your order includes :
+Normal Thali	2
+Sandwich	2
+chola bhatura	4
+
+amount payable :330	PAY BY :	C O D
+-----------------------------
+
+Date 24\1\16	    Time 21:28
+Order For 	Aditya
+Order @ Room NO.	s22
+ your order includes :
+VegRole	2
+PannerParatha(2 pcs.)	2
+AlooParatha(2 pcs.)	2
+
+amount payable :170	PAY BY :	C O D
+-----------------------------
+
+Date 24\1\16	    Time 21:53
+Order For 	Anuj
+Order @ Room NO.	D44
+ your order includes :
+PannerParatha(2 pcs.)	4
+Coke	2
+
+amount payable :210	PAY BY :	C O D
+-----------------------------
+
+Date 24\1\16	    Time 21:57
+Order For 	Raj
+Order @ Room NO.	D44
+ your order includes :
+Dew	2
+PannerParatha(2 pcs.)	2
+
+amount payable :140	PAY BY :	C A
+-----------------------------
+
+Date 24\1\16	    Time 23:10
+Order For 	Anshika
+Order @ Room NO.	C22
+ your order includes :
+PannerParatha(2 pcs.)	2
+FriedIdli(2 pcs.)	2
+
+amount payable :120	PAY BY :	C A
+-----------------------------
+
+Date 25\1\16	    Time 14:44
+Order For 	Abhishek
+Order @ Room NO.	F11
+ your order includes :
+Dosa	2
+PannerParatha(2 pcs.)	4
+
+amount payable :210	PAY BY :	C O D
+-----------------------------
+
+Date 25\1\16	    Time 22:55
+Order For 	vijay
+Order @ Room NO.	S22
+ your order includes :
+Coke	1
+VegRole	2
+PannerParatha(2 pcs.)	2
+
+amount payable :155	PAY BY :	C O D
+-----------------------------
+
+Date 25\1\16	    Time 23:11
+Order For 	Akshaya
+Order @ Room NO.	D13
+ your order includes :
+Coke	1
+PannerParatha(2 pcs.)	2
+
+amount payable :105	PAY BY :	C O D
+-----------------------------
+
+Date 25\1\16	    Time 23:27
+Order For 	abhishek
+Order @ Room NO.	D11
+ your order includes :
+chai	3
+Sandwich	4
+
+amount payable :75	PAY BY :	C A
+-----------------------------
+
+Date 25\1\16	    Time 23:31
+Order For 	Akshaya
+Order @ Room NO.	D22
+ your order includes :
+Dew	2
+AmulKool(Cafe)	2
+
+amount payable :140	PAY BY :	C O D
+-----------------------------
+
+Date 25\1\16	    Time 23:44
+Order For 	Akshaya
+Order @ Room NO.	D55
+ your order includes :
+AlooParatha(2 pcs.)	2
+Dosa	2
+FriedIdli(2 pcs.)	2
+
+amount payable :170	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 0:18
+Order For 	Abhilasa
+Order @ Room NO.	D22
+ your order includes :
+PannerParatha(2 pcs.)	3
+Coke	2
+
+amount payable :175	PAY BY :	C A
+-----------------------------
+
+Date 26\1\16	    Time 0:19
+Order For 	Abhilasa
+Order @ Room NO.	S11
+ your order includes :
+chola bhatura	2
+Normal Thali	5
+Dosa	3
+
+amount payable :455	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 0:21
+Order For 	Abhishek
+Order @ Room NO.	D23
+ your order includes :
+CocaCola	2
+PannerParatha(2 pcs.)	3
+
+amount payable :175	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 0:30
+Order For 	mayank
+Order @ Room NO.	F33
+ your order includes :
+AlooParatha(2 pcs.)	2
+FriedIdli(2 pcs.)	4
+SpringRole	2
+
+amount payable :200	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 0:31
+Order For 	mayank
+Order @ Room NO.	A22
+ your order includes :
+FriedIdli(2 pcs.)	2
+PannerParatha(2 pcs.)	4
+Coke	1
+
+amount payable :225	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 0:32
+Order For 	mayank
+Order @ Room NO.	s22
+ your order includes :
+Dosa	4
+AlooParatha(2 pcs.)	4
+Coke	4
+
+amount payable :380	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 1:12
+Order For 	mayank
+Order @ Room NO.	X32
+ your order includes :
+PannerParatha(2 pcs.)	2
+Dew	1
+
+amount payable :105	PAY BY :	C A
+-----------------------------
+
+Date 26\1\16	    Time 3:15
+Order For 	Abhishek
+Order @ Room NO.	S85
+ your order includes :
+Dew	2
+VegRole	2
+
+amount payable :120	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 3:16
+Order For 	Anshika
+Order @ Room NO.	G25
+ your order includes :
+AlooParatha(2 pcs.)	5
+SpringRole	2
+FriedIdli(2 pcs.)	5
+
+amount payable :300	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 3:18
+Order For 	Anshika
+Order @ Room NO.	D55
+ your order includes :
+Coke	3
+Normal Thali	4
+SpringRole	1
+
+amount payable :330	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 4:10
+Order For 	mayank
+Order @ Room NO.	D44
+ your order includes :
+Coke	02
+chola bhatura	02
+
+amount payable :170	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 4:30
+Order For 	abhishek
+Order @ Room NO.	f44
+ your order includes :
+Coke	2
+AlooParatha(2 pcs.)	2
+PannerParatha(2 pcs.)	2
+
+amount payable :190	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 10:15
+Order For 	amit
+Order @ Room NO.	D11
+ your order includes :
+SpringRole	2
+CocaCola	2
+
+amount payable :120	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 10:17
+Order For 	abhishek
+Order @ Room NO.	A24
+ your order includes :
+Dew	2
+AlooParatha(2 pcs.)	2
+
+amount payable :120	PAY BY :	C A
+-----------------------------
+
+Date 26\1\16	    Time 10:21
+Order For 	tom
+Order @ Room NO.	D24
+ your order includes :
+Normal Thali	2
+Dosa	2
+
+amount payable :170	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 10:23
+Order For 	abhishek
+Order @ Room NO.	D22
+ your order includes :
+PannerParatha(2 pcs.)	1
+CocaCola	2
+
+amount payable :105	PAY BY :	C A
+-----------------------------
+
+Date 26\1\16	    Time 11:28
+Order For 	shikha
+Order @ Room NO.	s11
+ your order includes :
+Sandwich	1
+PannerParatha(2 pcs.)	1
+CocaCola	3
+Fried Rice	2
+
+amount payable :255	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 12:58
+Order For 	aman
+Order @ Room NO.	D11
+ your order includes :
+AmulKool(Cafe)	2
+Samosa( 2 pcs.)	2
+
+amount payable :86	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 13:9
+Order For 	aman
+Order @ Room NO.	a31
+ your order includes :
+Dosa	1
+Coke	1
+Rassgula	1
+
+amount payable :80	PAY BY :	C O D
+-----------------------------
+
+Date 26\1\16	    Time 20:10
+Order For 	Anshika
+Order @ Room NO.	D33
+ your order includes :
+Dew	2
+Samosa( 2 pcs.)	2
+Paties(Aloo)	4
+
+amount payable :126	PAY BY :	C A
+-----------------------------
+
+Date 26\2\16	    Time 21:28
+Order For 	abhishek gupta
+Order @ Room NO.	S24
+ your order includes :
+Coke	4
+PannerParatha(2 pcs.)	4
+
+amount payable :280	PAY BY :	C O D
+-----------------------------
+
+Date 26\2\16	    Time 21:32
+Order For 	laala ji
+Order @ Room NO.	G34
+ your order includes :
+FriedIdli(2 pcs.)	4
+VegRole	4
+SpringRole	4
+Dew	5
+
+amount payable :475	PAY BY :	C A
+-----------------------------
+
+Date 28\2\16	    Time 0:33
+Order For 	self
+Order @ Room NO.	D22
+ your order includes :
+Dosa	2
+AlooParatha(2 pcs.)	2
+Coke	1
+
+amount payable :155	PAY BY :	C O D
+-----------------------------
+
+Date 29\2\16	    Time 23:47
+Order For 	Self
+Order @ Room NO.	R55
+ your order includes :
+SpringRole	1
+Dosa	1
+AlooParatha(2 pcs.)	1
+
+amount payable :85	PAY BY :	C A
+-----------------------------
+
+Date 1\3\16	    Time 0:0
+Order For 	self
+Order @ Room NO.	R32
+ your order includes :
+PannerParatha(2 pcs.)	4
+Dew	1
+
+amount payable :175	PAY BY :	C A
+-----------------------------
+
+Date 2\3\16	    Time 13:31
+Order For 	Self
+Order @ Room NO.	D23
+ your order includes :
+Dosa	4
+Coke	1
+
+amount payable :175	PAY BY :	C O D
+-----------------------------
+
+Date 2\3\16	    Time 13:56
+Order For 	Abhishek
+Order @ Room NO.	D54
+ your order includes :
+Coke	1
+Samosa( 2 pcs.)	2
+Rassgula	2
+Coke	1
+Samosa( 2 pcs.)	2
+Rassgula	2
+
+amount payable :71	PAY BY :	C O D
+-----------------------------
+
+Date 2\3\16	    Time 14:2
+Order For 	Me
+Order @ Room NO.	D22
+ your order includes :
+AlooParatha(2 pcs.)	1
+Dew	1
+
+amount payable :60	PAY BY :	C O D
+-----------------------------
+
+Date 7\3\16	    Time 22:36
+Order For 	Anshika
+Order @ Room NO.	D21
+ your order includes :
+SpringRole	1
+PannerParatha(2 pcs.)	1
+CocaCola	2
+
+amount payable :130	PAY BY :	C O D
+-----------------------------
+
+Date 23\3\16	    Time 2:41
+Order For 	self
+Order @ Room NO.	D23
+ your order includes :
+AmulKool(Choco)	1
+Paties(Aloo)	1
+
+amount payable :45	PAY BY :	C O D
+-----------------------------
+
+Date 5\8\16	    Time 11:52
+Order For 	Ayushmital
+Order @ Room NO.	D11
+ your order includes :
+chai	1
+Sandwich	5
+Rasoogula	1
+
+amount payable :95	PAY BY :	C O D
+-----------------------------
+
+Date 22\1\17	    Time 17:0
+Order For 	me
+Order @ Room NO.	d13
+ your order includes :
+chai	5
+Dosa	2
+
+amount payable :95	PAY BY :	C O D
+-----------------------------
+
+Date 22\2\17	    Time 20:5
+Order For 	Abhishek
+Order @ Room NO.	d11
+ your order includes :
+Dew	5
+AmulKool(Choco)	1
+
+amount payable :210	PAY BY :	C A
+-----------------------------
+
+Date 22\4\17	    Time 13:56
+Order For 	self
+Order @ Room NO.	p25
+ your order includes :
+FriedIdli(2 pcs.)	4
+
+amount payable :100	PAY BY :	C O D
